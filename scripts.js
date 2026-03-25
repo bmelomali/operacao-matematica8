@@ -11,3 +11,8 @@ alert(`Seu resultado é: ${resultDivisao.toFixed(2)}`);
 resultado = num1 + num2;
 
 alert(`o resultado da sua soma é:${resultado}`);
+
+resultado = num1 * num2;
+
+alert(`resultado da multiplicação é ${resultado}`);
+
