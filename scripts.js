@@ -1,11 +1,11 @@
 let divisaoUm ;
 let divisaoDois;
-let result;
+let resultDivisao;
 
 divisaoUm = Number(prompt("Escreva um numero: "));
 divisaoDois = Number(prompt("escreva o sugundo numero: "));
-result = divisaoUm/divisaoDois
+resultDivisao = divisaoUm/divisaoDois;
 
-alert(`Seu resultado é: ${result.toFixed(2)}`);
+alert(`Seu resultado é: ${resultDIvisao.toFixed(2)}`);
 
 
