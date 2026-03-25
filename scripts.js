@@ -16,3 +16,8 @@ resultado = num1 * num2;
 
 alert(`resultado da multiplicação é ${resultado}`);
 
+let resultadosub = num1 - num2;
+// Number e prompt faz a programação ver os números como numeros mesmo. Sem o texto.
+alert(`O resultado da subtração é: ${resultadosub.toFixed(2)}`);
+// Alert serve para aparecer a escrita na tela.
+
