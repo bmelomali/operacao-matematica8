@@ -6,6 +6,6 @@ divisaoUm = Number(prompt("Escreva um numero: "));
 divisaoDois = Number(prompt("escreva o sugundo numero: "));
 resultDivisao = divisaoUm/divisaoDois;
 
-alert(`Seu resultado é: ${resultDIvisao.toFixed(2)}`);
+alert(`Seu resultado é: ${resultDivisao.toFixed(2)}`);
 
 
