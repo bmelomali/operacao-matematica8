@@ -1,6 +1,8 @@
-let num1soma;
-let num2soma;
+let num1;
+let num2;
 let resultado;
-let num1soma = Number(prompt("adicione o primeiro número"));
-let num2soma = Number(prompt("adicione o segundo número"));
-let resultado = num1soma + num1soma;
+num1 = Number(prompt("adicione o primeiro número"));
+num2 = Number(prompt("adicione o segundo número"));
+resultado = num1 + num2;
+
+alert(`o resultado da sua soma é:${resultado}`);
